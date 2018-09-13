@@ -8,7 +8,7 @@ The color of the text and view changes randomly when respective button is presse
 Enter can be pressed to update the label with the text from the text field. 
 
 ### App Walk-though
-<img src="https://imgur.com/WWWh3Pt" width=200><br>
+<img src="https://i.imgur.com/WWWh3Pt.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
